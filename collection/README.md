@@ -36,6 +36,6 @@ xcopy /Y $(SolutionDir)$(Platform)\$(Configuration)\$(ProjectName).asi "...\gtav
 ![Properties4](/collection/instructions/insturct4.png)
 
 ## Step 5:
-Build ! ! !
+Build ! ! ! (With **Debug x64**, as other settings might fail in some cases)
 
 In successful build, you should see a **DatasetAnnotator.asi** in your GTA folder
