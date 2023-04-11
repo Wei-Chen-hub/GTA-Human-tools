@@ -37,3 +37,5 @@ xcopy /Y $(SolutionDir)$(Platform)\$(Configuration)\$(ProjectName).asi "...\gtav
 
 ## Step 5:
 Build ! ! !
+
+In successful build, you should see a **DatasetAnnotator.asi** in your GTA folder
