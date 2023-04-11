@@ -1,0 +1,62 @@
+﻿  capture.cpp
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\capture.cpp(102,32): warning C4101: 'e': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\capture.cpp(189,10): warning C4101: 'hr': unreferenced local variable
+  export.cpp
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(64,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(68,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(181,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(183,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(249,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(256,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\export.cpp(263,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  keyboard.cpp
+  main.cpp
+  scenario.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(352,19): warning C4473: 'snprintf' : not enough arguments passed for format string
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(352,19): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(352,19): message : the missing variadic argument 2 is required by format string '%02d'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(440,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(442,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(569,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(525,8): warning C4101: 'new_z': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(510,42): warning C4101: 'safe': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(512,8): warning C4101: 'tmp': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(528,6): warning C4101: 'nearby_ped': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(728,8): warning C4101: 'new_z': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(639,8): warning C4101: 'tmp': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(634,6): warning C4101: 'stop': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(834,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1058,53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1094,56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1014,10): warning C4101: 'temp_pos': unreferenced local variable
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1200,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1217,30): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1220,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1334,20): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1351,30): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1391,40): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1393,39): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1394,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1395,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1396,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1399,41): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1401,41): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1402,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1403,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(1404,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  script.cpp
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\script.cpp(116,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(786): warning C4715: 'getHash': not all control paths return a value
+C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\DatasetAnnotator\scenario.cpp(803): warning C4715: 'getType': not all control paths return a value
+  libMinHook.x64.lib(hook.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\x64\Debug\DatasetAnnotator.lib and object C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\x64\Debug\DatasetAnnotator.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  DatasetAnnotator.vcxproj -> C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\x64\Debug\DatasetAnnotator.asi
+  C:\Users\it_admin\Desktop\mta-2021-1210\vs2019\x64\Debug\DatasetAnnotator.asi
+  1 File(s) copied

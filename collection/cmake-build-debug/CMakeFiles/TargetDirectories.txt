@@ -1,0 +1,3 @@
+C:/Users/12595/Desktop/mta-98/cmake-build-debug/CMakeFiles/mta_98.dir
+C:/Users/12595/Desktop/mta-98/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12595/Desktop/mta-98/cmake-build-debug/CMakeFiles/rebuild_cache.dir
