@@ -1,0 +1,475 @@
+Main LS Customs,Outdoors,-365.425,-131.809,37.873
+Very High Up,Outdoors,-129.964,8130.873,6705.307
+IAA Roof,Outdoors,134.085,-637.859,262.851
+FIB Roof,Outdoors,150.126,-754.591,262.865
+Maze Bank Roof,Outdoors,-75.015,-818.215,326.176
+Top of the Mt Chilad,Outdoors,450.718,5566.614,806.183
+Most Northerly Point,Outdoors,24.775,7644.102,19.055
+Vinewood Bowl Stage,Outdoors,686.245,577.950,130.461
+Sisyphus Theater Stage,Outdoors,205.316,1167.378,227.005
+Director Mod Trailer,Outdoors,-20.004,-10.889,500.602
+Galileo Observatory Roof,Outdoors,-438.804,1076.097,352.411
+Kortz Center,Outdoors,-2243.810,264.048,174.615
+Chumash Historic Family Pier,Outdoors,-3426.683,967.738,8.347
+Paleto Bay Pier,Outdoors,-275.522,6635.835,7.425
+God's thumb,Outdoors,-1006.402,6272.383,1.503
+Calafia Train Bridge,Outdoors,-517.869,4425.284,89.795
+Altruist Cult Camp,Outdoors,-1170.841,4926.646,224.295
+Maze Bank Arena Roof,Outdoors,-324.300,-1968.545,67.002
+Marlowe Vineyards,Outdoors,-1868.971,2095.674,139.115
+Hippy Camp,Outdoors,2476.712,3789.645,41.226
+Devin Weston's House,Outdoors,-2639.872,1866.812,160.135
+Abandon Mine,Outdoors,-595.342,2086.008,131.412
+Weed Farm,Outdoors,2208.777,5578.235,53.735
+Stab City,Outdoors,126.975,3714.419,46.827
+Airplane Graveyard Airplane Tail,Outdoors,2395.096,3049.616,60.053
+Satellite Dish Antenna,Outdoors,2034.988,2953.105,74.602
+Satellite Dishes,Outdoors,2062.123,2942.055,47.431
+Windmill Top,Outdoors,2026.677,1842.684,133.313
+Sandy Shores Building Site Crane,Outdoors,1051.209,2280.452,89.727
+Rebel Radio,Outdoors,736.153,2583.143,79.634
+Quarry,Outdoors,2954.196,2783.410,41.004
+Palmer-Taylor Power Station Chimney,Outdoors,2732.931,1577.540,83.671
+Merryweather Dock,Outdoors,486.417,-3339.692,6.070
+Cargo Ship,Outdoors,899.678,-2882.191,19.013
+Del Perro Pier,Outdoors,-1850.127,-1231.751,13.017
+Play Boy Mansion,Outdoors,-1475.234,167.088,55.841
+Jolene Cranley-Evans Ghost,Outdoors,3059.620,5564.246,197.091
+NOOSE Headquarters,Outdoors,2535.243,-383.799,92.993
+Snowman,Outdoors,971.245,-1620.993,30.111
+Oriental Theater,Outdoors,293.089,180.466,104.301
+Beach Skatepark,Outdoors,-1374.881,-1398.835,6.141
+Underpass Skatepark,Outdoors,718.341,-1218.714,26.014
+Casino,Outdoors,925.329,46.152,80.908
+University of San Andreas,Outdoors,-1696.866,142.747,64.372
+La Puerta Freeway Bridge,Outdoors,-543.932,-2225.543,122.366
+Land Act Dam,Outdoors,1660.369,-12.013,170.020
+Mount Gordo,Outdoors,2877.633,5911.078,369.624
+Little Seoul,Outdoors,-889.655,-853.499,20.566
+Epsilon Building,Outdoors,-695.025,82.955,55.855
+The Richman Hotel,Outdoors,-1330.911,340.871,64.078
+Vinewood sign,Outdoors,711.362,1198.134,348.526
+Los Santos Golf Club,Outdoors,-1336.715,59.051,55.246
+Chicken,Outdoors,-31.010,6316.830,40.083
+Little Portola,Outdoors,-635.463,-242.402,38.175
+Pacific Bluffs Country Club,Outdoors,-3022.222,39.968,13.611
+Vinewood Cemetery,Outdoors,-1659993,-128.399,59.954
+Paleto Forest Sawmill Chimney,Outdoors,-549.467,5308.221,114.146
+Mirror Park,Outdoors,1070.206,-711.958,58.483
+Rocket,Outdoors,1608.698,6438.096,37.637
+El Gordo Lighthouse,Outdoors,3430.155,5174.196,41.280
+Mile High Club,Outdoors,-144.274,-946.813,269.135
+Michael's House,Indoor,-813.603,179.474,72.1548
+Franklin's House (New),Indoor,7.11903,536.615,176.028
+Franklin's House (Old),Indoor,-14.3803,-1438.51,31.1073
+Trevor's House,Indoor,1972.61,3817.04,33.4278
+Trevor's House 2,Indoor,-1151.77,-1518.14,10.6327
+Trevor's Office,Indoor,97.2707,-1290.9940,29.2688
+Strip Club DJ Booth,Indoor,126.135,-1278.583,29.270
+Blaine County Savings Bank,Indoor,-109.299,6464.035,31.627
+Police Station,Indoor,436.491,-982.172,30.699
+Humane Labs Entrance,Indoor,3619.749,2742.740,28.690
+Burnt FIB Building,Indoor,160.868,-745.831,250.063
+10 Car Garage Back Room,Indoor,223.193,-967.322,99.000
+Humane Labs Tunnel,Indoor,3525.495,3705.301,20.992
+Ammunation Office,Indoor,12.494,-1110.130,29.797
+Ammunation Gun Range,Indoor,22.153,-1072.854,29.797
+Trevor's Meth Lab,Indoor,1391.773,3608.716,38.942
+Pacific Standard Bank Vault,Indoor,255.851,217.030,101.683
+Lester's House,Indoor,1273.898,-1719.304,54.771
+Floyd's Apartment,Indoor,-1150.703,-1520.713,10.633
+FIB Top Floor,Indoor,135.733,-749.216,258.152
+IAA Office,Indoor,117.220,-620.938,206.047
+Pacific Standard Bank,Indoor,235.046,216.434,106.287
+Fort Zancudo ATC entrance,Indoor,-2344.373,3267.498,32.811
+Fort Zancudo ATC top floor,Indoor,-2358.132,3249.754,101.451
+Torture Room,Indoor,147.170,-2201.804,4.688
+Aircraft Carrier,Landmarks,3084.7303,-4770.709,15.2620
+Airport Entrance,Landmarks,-1034.6,-2733.6,13.8
+Airport Runway,Landmarks,-1336.0,-3044.0,13.9
+Altruist Cult Camp,Landmarks,-1170.841,4926.646,224.295
+Calafia Train Bridge,Landmarks,-517.869,4425.284,89.795
+Cargo Ship,Landmarks,899.678,-2882.191,19.013
+Chumash Historic Family Pier,Landmarks,-3426.683,967.738,8.347
+Del Perro Pier,Landmarks,-1850.127,-1231.751,13.017
+Devin Weston's House,Landmarks,-2639.872,1866.812,160.135
+El Burro Heights,Landmarks,1384.0,-2057.1,52.0
+Elysian Island,Landmarks,338.2,-2715.9,38.5
+Far North San Andreas,Landmarks,24.775,7644.102,19.055
+Ferris Wheel,Landmarks,-1670.7,-1125.0,13.0
+Fort Zancudo (Opened),Landmarks,-2047.4,3132.1,32.8
+Fort Zancudo Tower,Landmarks,-2358.132,3249.754,101.451
+Jetsam,Landmarks,760.4,-2943.2,5.8
+Jolene Cranley-Evans Ghost,Landmarks,3059.620,5564.246,197.091
+Kortz Center,Landmarks,-2243.810,264.048,174.615
+Marlowe Vineyards,Landmarks,-1868.971,2095.674,139.115
+McKenzie Airfield,Landmarks,2121.7,4796.3,41.1
+Merryweather Dock,Landmarks,486.417,-3339.692,6.070
+Mineshaft,Landmarks,-595.342,2086.008,131.412
+Mount Chiliad,Landmarks,450.718,5566.614,806.183
+Life Invader Building Roof,Landmarks,-1076.255,-247.1436,57.9219
+NOOSE Headquarters,Landmarks,2535.243,-383.799,92.993
+Pacific Standard Bank,Landmarks,235.046,216.434,106.287
+Paleto Bay Pier,Landmarks,-275.522,6635.835,7.425
+Playboy Mansion,Landmarks,-1475.234,167.088,55.841
+Police Station,Landmarks,436.491,-982.172,30.699
+Quarry,Landmarks,2954.196,2783.410,41.004
+Sandy Shores Airfield,Landmarks,1747.0,3273.7,41.1
+Satellite Dishes,Landmarks,2062.123,2942.055,47.431
+Sisyphus Theater Stage,Landmarks,686.245,577.950,130.461
+Meth Lab,Landmarks,1391.773,3608.716,38.942
+Weed Farm,Landmarks,2208.777,5578.235,53.735
+Wind Farm,Landmarks,2354.0,1830.3,101.1
+Crane Top,HighLocations,-119.879,-977.357,304.249
+FIB Building Roof,HighLocations,150.126,-754.591,262.865
+Galileo Observatory Roof,HighLocations,-438.804,1076.097,352.411
+IAA Building Roof,HighLocations,134.085,-637.859,262.851
+Maze Bank Roof,HighLocations,-75.015,-818.215,326.176
+Palmer-Taylor Power Station Chimney,HighLocations,2732.931,1577.540,83.671
+Sandy Shores Building Site Crane,HighLocations,1051.209,2280.452,89.727
+Satellite Dish,HighLocations,2034.988,2953.105,74.602
+Sky High,HighLocations,-119.879,-977.357,10000.0
+UFO (Fort Zancudo),HighLocations,-2052.000,3237.000,1456.973
+Windmill Top,HighLocations,2026.677,1842.684,133.313
+Hatch,underwater,4273.950,2975.714,-170.746
+Sea Monster,underwater,-3373.726,504.714,-24.656
+Sunken Body,underwater,-3161.078,3001.998,-37.974
+Sunken Cargo Ship,underwater,3199.748,-379.018,-22.500
+Sunken Plane,underwater,-942.350,6608.752,-20.912
+Tank,underwater,4201.633,3643.821,-39.016
+Tunnel (Humane Labs),underwater,3838.47,3673.06,-19.7281
+UFO,underwater,762.426,7380.371,-111.377
+Sunken Body,underwater,-3161.078,3001.998,-37.974
+Underwater WW2 Tank,underwater,4201.633,3643.821,-39.016
+Dead Sea Monster,underwater,-3373.726,504.714,-24.656
+Underwater UFO,underwater,762.426,7380.371,-111.377
+Underwater Hatch,underwater,4273.950,2975.714,-170.746
+Sunken Plane,underwater,-942.350,6608.752,-20.912
+Sunken Cargo Ship,underwater,3199.748,-379.018,-22.500
+Ammunation Gun Range,interiors,22.153,-1072.854,29.797
+Bahama Mamas West,interiors,-1387.08,-588.4,30.3195
+Bank (Blaine County),interiors,-109.299,6464.035,31.627
+Bank (North Yankton),interiors,5309.519,-5212.375,83.522
+Bank Vault,interiors,255.851,217.030,101.683
+Car Showroom,interiors,-57.6615,-1097.595,26.4224
+Cluckin' Bell Factory,interiors,-70.0624,6263.53,31.0909
+Darnell Bros. Garment Factory,interiors,712.7159,-962.9055,30.3953
+East Los Santos Foundry,interiors,1080.5678,-1974.9805,31.4715
+Epsilon Storage Room,interiors,243.3000,365.7000,105.7383
+FIB Building Burnt,interiors,159.553,-738.851,246.152
+FIB Building Floor 47,interiors,134.573,-766.486,234.152
+FIB Building Floor 49,interiors,134.635,-765.831,242.152
+FIB Building Lobby,interiors,110.4,-744.2,45.7
+FIB Building Top Floor,interiors,135.733,-749.216,258.152
+Garage (From Story Mode),interiors,195.1810,-1024.9241,-99.0000
+Hospital (Destroyed),interiors,302.651,-586.293,43.3129
+Humane Labs Lower Level,interiors,3525.495,3705.301,20.992
+Humane Labs Upper Level,interiors,3618.52,3755.76,28.6901
+IAA Office,interiors,117.220,-620.938,206.047
+Janitor's Apartment,interiors,-110.721,-8.22095,70.5197
+Jewel Store,interiors,-630.07,-236.332,38.0571
+Lester's House,interiors,1273.898,-1719.304,54.771
+Life Invader Office,interiors,-1049.13,-231.779,39.0144
+Madrazo's Ranch,interiors,1398.0800,1143.8001,114.3320
+Max Renda Shop,interiors,-583.1606,-282.3967,35.394
+Meat Processing Factory,interiors,976.1100,-2184.4500,29.9779
+Morgue,interiors,275.446,-1361.11,24.5378
+Motel Room,interiors,152.2600,-1004.4700,-99.0000
+Movie Theatre,interiors,-1427.3129,-245.1729,16.8037
+Omega's Garage,interiors,2330.6196,2572.6108,46.6801
+ONeil's Farm,interiors,2454.78,4971.92,46.8103
+ONeil's Farm (Burnt),interiors,2454.78,4971.92,46.8103
+Psychiatrist's Office,interiors,-1908.0244,-573.4244,19.0972
+Solomon's Office,interiors,-1005.8400,-478.9200,50.0284
+Split Sides Comedy Club,interiors,377.0883,-991.8690,-98.6035
+Stadium,interiors,-248.4916,-2010.509,34.5743
+Tequi-la-la Bar,interiors,-556.1166,284.5194,82.1763
+Torture Room,interiors,136.514,-2203.15,7.30914
+Trevor's Trailer (Clean),interiors,1975.5515,3820.5376,33.4363
+Trevor's Trailer (Dirty),interiors,1975.5515,3820.5376,33.4363
+Union Depository,interiors,2.6968,-667.0166,16.1306
+ApartMent,apartment interiors,260.5322,-999.1339,-99.0087
+Apartment,apartment interiors,343.8500,-999.0800,-99.1977
+Apartment,apartment interiors,-262.46,-951.89,75.83
+Apartment,apartment interiors,-280.74,-961.50,91.11
+Apartment,apartment interiors,-895.85,-433.90,94.06
+Apartment,apartment interiors,-909.054,-441.466,120.205
+Apartment,apartment interiors,-884.301,-454.515,125.132
+Apartment,apartment interiors,-897.197,-369.246,84.0779
+Apartment,apartment interiors,-932.29,-385.88,108.03
+Apartment,apartment interiors,-575.305,42.3233,92.2236
+Apartment,apartment interiors,-617.609,63.024,106.624
+Apartment,apartment interiors,-795.04,342.37,206.22
+Apartment,apartment interiors,-759.79,315.71,175.40
+Apartment,apartment interiors,-797.095,335.069,158.599
+Apartment,apartment interiors,-752.605,320.821,221.855
+Apartment,apartment interiors,-37.41,-582.82,88.71
+Apartment,apartment interiors,-10.58,-581.26,98.83
+Apartment,apartment interiors,-1477.14,-538.75,55.5264
+Apartment,apartment interiors,-1474.17,-528.124,68.1541
+Apartment,apartment interiors,-14.7964,-581.709,79.4307
+Apartment,apartment interiors,-1468.14,-541.815,73.4442
+Apartment,apartment interiors,-915.811,-379.432,113.675
+Apartment,apartment interiors,-614.86,40.6783,97.6001
+Apartment,apartment interiors,-773.407,341.766,211.397
+Apartment,apartment interiors,-172.983,494.033,137.654
+Apartment,apartment interiors,340.941,437.18,149.39
+Apartment,apartment interiors,373.023,416.105,145.701
+Apartment,apartment interiors,-676.127,588.612,145.17
+Apartment,apartment interiors,-763.107,615.906,144.14
+Apartment,apartment interiors,-857.798,682.563,152.653
+Apartment,apartment interiors,120.5,549.952,184.097
+Apartment,apartment interiors,-1288.0,440.748,97.6946
+Modern 1,apartment interiors,-788.28,340.97,216.84
+Modern 2,apartment interiors,-786.73,342.81,187.11
+Modern 3,apartment interiors,-773.425,332.380,196.086
+Moody 1,apartment interiors,-788.28,340.97,216.84
+Moody 2,apartment interiors,-786.73,342.81,187.11
+Moody 3,apartment interiors,-773.425,332.380,196.086
+Vibrant 1,apartment interiors,-788.28,340.97,216.84
+Vibrant 2,apartment interiors,-786.73,342.81,187.11
+Vibrant 3,apartment interiors,-773.425,332.380,196.086
+Sharp 1,apartment interiors,-788.28,340.97,216.84
+Sharp 2,apartment interiors,-786.73,342.81,187.11
+Sharp 3,apartment interiors,-773.425,332.380,196.086
+Monochrome 1,apartment interiors,-788.28,340.97,216.84
+Monochrome 2,apartment interiors,-786.73,342.81,187.11
+Monochrome 3,apartment interiors,-773.425,332.380,196.086
+Seductive 1,apartment interiors,-788.28,340.97,216.84
+Seductive 2,apartment interiors,-786.73,342.81,187.11
+Seductive 3,apartment interiors,-773.425,332.380,196.086
+Regal 1,apartment interiors,-788.28,340.97,216.84
+Regal 2,apartment interiors,-786.73,342.81,187.11
+Regal 3,apartment interiors,-773.425,332.380,196.086
+Aqua 1,apartment interiors,-788.28,340.97,216.84
+Aqua 2,apartment interiors,-786.73,342.81,187.11
+Aqua 3,apartment interiors,-773.425,332.380,196.086
+Ammunation,shopping locations,247.3652,-45.8777,69.9411
+Barber Shop,shopping locations,-1293.231,-1117.002,6.6388
+Benny's Motorworks,shopping locations,-205.3415,-1305.809,30.6358
+LSC,shopping locations,-367.7338,-130.8593,38.1165
+Ponsonbys Clothing,shopping locations,-159.2996,-304.3292,39.7333
+Tattoo Parlor,shopping locations,319.7877,172.2311,103.7442
+Executive Rich,offices,-139.1000,-631.8000,168.8000
+Executive Cool,offices,-139.1000,-631.8000,168.8000
+Executive Contrast,offices,-139.1000,-631.8000,168.8000
+Old Spice Warm,offices,-139.1000,-631.8000,168.8000
+Old Spice Classical,offices,-139.1000,-631.8000,168.8000
+Old Spice Vintage,offices,-139.1000,-631.8000,168.8000
+Power Broker Ice,offices,-139.1000,-631.8000,168.8000
+Power Broker Conservative,offices,-139.1000,-631.8000,168.8000
+Power Broker Polished,offices,-139.1000,-631.8000,168.8000
+Executive Rich,offices,-73.1000,-816.8000,243.4000
+Executive Cool,offices,-73.1000,-816.8000,243.4000
+Executive Contrast,offices,-73.1000,-816.8000,243.4000
+Old Spice Warm,offices,-73.1000,-816.8000,243.4000
+Old Spice Classical,offices,-73.1000,-816.8000,243.4000
+Old Spice Vintage,offices,-73.1000,-816.8000,243.4000
+Power Broker Ice,offices,-73.1000,-816.8000,243.4000
+Power Broker Conservative,offices,-73.1000,-816.8000,243.4000
+Power Broker Polished,offices,-73.1000,-816.8000,243.4000
+Executive Rich,offices,-1573.1000,-571.9000,108.5000
+Executive Cool,offices,-1573.1000,-571.9000,108.5000
+Executive Contrast,offices,-1573.1000,-571.9000,108.5000
+Old Spice Warm,offices,-1573.1000,-571.9000,108.5000
+Old Spice Classical,offices,-1573.1000,-571.9000,108.5000
+Old Spice Vintage,offices,-1573.1000,-571.9000,108.5000
+Power Broker Ice,offices,-1573.1000,-571.9000,108.5000
+Power Broker Conservative,offices,-1573.1000,-571.9000,108.5000
+Power Broker Polished,offices,-1573.1000,-571.9000,108.5000
+Executive Rich,offices,-1382.3000,-477.9000,72.0000
+Executive Cool,offices,-1382.3000,-477.9000,72.0000
+Executive Contrast,offices,-1382.3000,-477.9000,72.0000
+Old Spice Warm,offices,-1382.3000,-477.9000,72.0000
+Old Spice Classical,offices,-1382.3000,-477.9000,72.0000
+Old Spice Vintage,offices,-1382.3000,-477.9000,72.0000
+Power Broker Ice,offices,-1382.3000,-477.9000,72.0000
+Power Broker Conservative,offices,-1382.3000,-477.9000,72.0000
+Power Broker Polished,offices,-1382.3000,-477.9000,72.0000
+Clubhouse 2,biker interiors,998.3676,-3164.6531,-38.9073
+Business 1,biker interiors,1009.5000,-3196.6000,-38.5000
+Business 2,biker interiors,1049.6000,-3196.6000,-38.5000
+Business 3,biker interiors,1093.6000,-3196.6000,-38.5000
+Business 4,biker interiors,1124.6000,-3196.6000,-38.5000
+Business 5,biker interiors,1165.0000,-3196.6000,-38.2000
+Small,warehouses,1094.9880,-3101.7760,-40.0000
+Medium,warehouses,1056.4860,-3105.7240,-40.0000
+Large,warehouses,1007.1350,-3102.0790,-40.0000
+Bridge (Train Crash Location),Others,-532.1309,4526.1870,88.7955
+Cargo Ship (Normal),Others,-163.749,-2377.94,9.3192
+Cargo Ship (Sunken),Others,-162.8918,-2365.769,0.0
+Cargo Ship (Sunken & On Fire),Others,-162.8918,-2365.769,0.0
+North Yankton,Others,3217.697021,-4834.826,111.8148
+Red Carpet (Movie Theatre),Others,300.5927,199.7589,104.3776
+Trench (Plane Crash Location),Others,2814.7000,4758.5000,50.000
+Tunnel Entrance (Maintenance),Others,23.7318,-647.2123,37.9549
+Wrecked Stilthouse (Vinewood),Others,-1020.5000,663.4099,154.7500
+3 Alta Street,Misc,-266.052,-968.630,31.224
+Airport - Airstrip,Misc,-1336.000,-3044.000,13.900
+Airport - Helipad,Misc,-1102.290,-2894.520,13.947
+Airport Entrance,Misc,-1034.600,-2733.600,13.800
+Airport Terminal,Misc,-1561.525,-3232.345,27.336
+Altruist Camp,Misc,-1170.115,4926.134,224.355
+Altruist Camp - Altar,Misc,-1166.000,4927.000,224.000
+Altruist Camp - Roof,Misc,-1143.150,4951.188,230.153
+Altruist Camp Mountain,Misc,-935.936,4836.747,310.520
+Altruist Camp Mountain - Radio Tower,Misc,-1002.000,4842.000,280.000
+Ammunation - Gun range,Misc,22.873,-1073.880,29.797
+Ammunation - Office,Misc,12.455,-1110.260,29.797
+Ammunation (Sandy Shore),Misc,1696.105,3755.167,34.705
+Ammunation,Misc,247.365,-45.878,69.941
+Avi Hideout (Kill Boost Island),Misc,-2177.440,5182.596,16.475
+Black UFO,Misc,-2052.662,3236.953,1466.315
+Building Glitch,Misc,-91.687,33.095,71.466
+Car Wash - Hands on,Misc,53.940,-1390.770,29.373
+Casino Inside,Misc,937.476,42.425,81.899
+Chumash,Misc,-3192.600,1100.000,20.200
+Comedy Club,Misc,377.088,-991.869,-97.604
+Construction Site - Crane (1),Misc,-167.982,-1001.930,296.206
+Construction Site - Crane (2) Balcony,Misc,-120.351,-977.861,304.248
+Construction Site - Crane 3 (Scenic),Misc,-119.860,-976.439,306.339
+Construction Site on building,Misc,-147.593,-964.695,254.133
+Construction Site,Misc,-129.384,-951.133,218.882
+Cypress Flatt,Misc,895.525,-2301.560,30.384
+Del Perro Beach - Underwater Hotspot,Misc,-2183.040,-1051.000,-143.771
+Del Perro Beach - Underwater Shallow,Misc,-1952.170,-975.570,-16.839
+Del Perro Pier - Ferris Wheel,Misc,-1670.700,-1125.000,13.000
+Del Perro Pier - Ferris Wheel Centre,Misc,-1664.170,-1126.530,32.151
+Director Mod Trailer,Misc,-20.004,-10.889,500.602
+Eclipse Towers Glitch,Misc,-785.487,314.716,90.219
+Eclipse Towers Roof,Misc,-769.800,331.208,234.269
+Elburro Heights,Misc,1384.000,-2057.100,52.000
+Elysian Island,Misc,338.200,-2715.900,38.500
+FIB Building,Misc,135.522,-749.001,261.000
+FIB Building Burnt,Misc,132.387,-758.833,250.000
+Franklin - New House,Misc,7.900,548.100,175.500
+Franklin - New House (Inside),Misc,7.415,535.549,176.028
+Franklin - Old House,Misc,-14.128,-1445.483,30.648
+Franklin - Old House (Inside),Misc,-14.969,-1436.443,32.119
+Franklins - New House Bedroom,Misc,2.601,525.518,170.617
+Galileo Observatory Roof,Misc,-438.796,1075.821,353.000
+Garage - 10 Cars (Back room),Misc,223.193,-967.322,-99.000
+Garage - 10 Cars (Back room),Misc,222.592,-968.100,-99.000
+Garage car tools,Misc,211.250,-962.750,24.967
+GO Postal,Misc,78.978,113.417,81.169
+GO Postal 2,Misc,67.408,123.526,86.129
+Humane Research Lab (Heist Escape Beach),Misc,3852.077,3625.567,9.214
+Humane Research Lab 1,Misc,3617.231,3739.871,28.690
+Humane Research Lab 2,Misc,3531.703,3673.642,28.121
+IAA Building,Misc,113.932,-618.533,207.047
+IAA Building Roof,Misc,130.682,-634.945,262.851
+In the Atmosphee (Above Maze Bank),Misc,-65.490,-873.289,12858.210
+IOU Tower,Misc,-866.498,-251.813,41.110
+Jetsam,Misc,760.400,-2943.200,5.800
+Jonny Tung,Misc,-879.065,-247.745,40.194
+Lester's House,Misc,1275.396,-1714.426,55.772
+Lighthouse - Dock,Misc,3369.224,5184.150,1.460
+Lighthouse - Dock Winding stairs,Misc,3336.174,5172.941,18.316
+Lighthouse near Mt. Gondor (Highest point),Misc,3430.990,5174.220,43.500
+Los Santos Customs,Misc,-367.734,-130.859,39.117
+Los Santos Customs - Inside,Misc,-335.000,-136.000,40.000
+LSPD Char Creator,Misc,402.668,-1003.000,-98.004
+Luxury Autos,Misc,-783.171,-246.461,37.021
+Maibatsu Motors Inc. - Roof,Misc,895.561,-987.624,44.271
+Martin House - Natalia (Inside),Misc,-1030.031,669.581,157.000
+Maze Bank - 0 Helipad,Misc,-74.942,-818.635,327.174
+Maze Bank - 1 In the Sky,Misc,-74.942,-818.635,2590.223
+Maze Bank - 2 Above Clouds,Misc,-74.942,-818.635,5841.424
+Maze Bank - 3 In the Atmosphere,Misc,-74.942,-818.635,10800.000
+Maze Bank Arena Entrance,Misc,-250.604,-2030.000,30.000
+Maze Bank Plaza - Water Fountain,Misc,-104.820,-856.374,41.087
+Maze Bank Plaza - Water Fountain with cube,Misc,-131.063,-865.810,29.468
+McKenzie Field Runway,Misc,2121.700,4796.300,41.100
+Mechanic,Misc,546.037,-183.368,54.498
+Meth Lab,Misc,1397.524,3607.423,39.942
+Michael,Misc,-852.400,160.000,65.600
+Michael - Amanda,Misc,-815.000,179.000,77.000
+Michael - Jimmy,Misc,-808.000,172.000,77.000
+Michael - Tracey,Misc,-802.000,173.000,77.000
+Michael (Inside),Misc,-813.603,179.474,73.159
+Mile High Club,Misc,-144.274,-946.813,269.135
+Military - Jet Spawn point 1,Misc,-2019.060,2956.453,32.810
+Military - Jet Spawn point 2,Misc,-2148.350,3031.762,32.810
+Military Base,Misc,-2047.400,3132.100,32.800
+Military Base (Jet Spawn),Misc,-2148.351,3031.762,33.810
+Military Base Control Tower (Inside Tower),Misc,-2356.094,3248.645,101.451
+Military Base Control Tower (Level 1),Misc,-2345.793,3267.464,33.811
+Military Base Radio Tower,Misc,-2501.939,3309.898,92.967
+Mineshaft,Misc,-595.000,2087.000,132.000
+Mineshaft,Misc,-420.000,2065.750,120.000
+Mineshaft,Misc,-598.000,2096.000,131.000
+Mt. Chiliad,Misc,495.000,5586.000,794.000
+Mt. Chiliad - Jump,Misc,430.204,5614.734,766.168
+Mt. Chiliad - Ramp,Misc,425.400,5614.300,766.500
+Mt. Chiliad - Structure Skyline (Auto Parachute recieve),Misc,446.540,5571.625,781.190
+Mt. Chiliad - View (City),Misc,489.317,5580.887,792.852
+Mt. Chiliad - View (Scenic),Misc,413.471,5572.821,779.682
+Mt. Chiliad Near - Above Cloud,Misc,-149.345,7130.246,700.117
+Mt. Gordo,Misc,2876.984,5911.455,370.000
+Mt. Josiah,Misc,-1212.987,3848.685,491.000
+NOOSE Headquarters,Misc,2535.243,-383.799,92.993
+O'Neil Ranch,Misc,2443.667,4974.612,47.500
+Online Loading Screen Carpark,Misc,405.936,-954.091,-98.004
+Pacific Standard Bank - Vault,Misc,255.582,217.690,102.683
+Paleto Bay - Bank,Misc,-104.207,6469.265,32.627
+Paleto Bay - Factory Lookout,Misc,-179.984,6150.478,42.637
+Paleto Bay Beach,Misc,178.330,7041.822,1.867
+Paleto Bay Beach - Island (Farthest),Misc,17.832,7630.014,13.507
+Paleto Bay Beach - Island with flowers,Misc,-125.654,7271.894,16.737
+Paleto Bay Beach - Underwater,Misc,106.697,7282.055,1.882
+Paleto Bay Beach - Underwater ocean,Misc,103.472,7744.187,-158.111
+Playboy Mansion,Misc,-1464.000,182.000,55.000
+Police Station,Misc,441.209,-983.114,31.690
+Police,Misc,369.430,-1601.830,36.950
+Police,Misc,334.210,-1644.770,98.496
+Ponsonbys Clothing,Misc,-159.300,-304.329,39.733
+Prison Guard Tower (North),Misc,1690.000,2653.000,58.000
+Prison Guard Tower (South),Misc,1690.000,2536.000,58.000
+Raton Canyon - A Waterfall,Misc,-540.482,4402.359,35.379
+Raton Canyon - Calafia Bridge,Misc,-175.219,4244.194,44.073
+Raton Canyon - Creek swimming (Next to waterfall),Misc,-589.532,4395.390,18.148
+Raton Canyon - Private Hangout (Creek),Misc,-463.662,4483.654,36.037
+Raton Canyon - Private Hangout 2,Misc,-597.953,4475.291,25.689
+Raton Canyon Train Tracks Bridge,Misc,-530.675,4534.996,89.046
+Rockford Hill City Wall (Glitch),Misc,-254.943,-147.353,42.731
+Rockford Hills City Hall,Misc,-551.000,-194.000,77.000
+Sandy Shores Airfield,Misc,1747.000,3273.700,41.100
+Sky,Misc,-129.964,8130.873,6705.651
+Solomon's Office,Misc,-1006.000,-476.500,50.000
+Stand - Cherry Popper,Misc,-1645.550,-1102.370,13.452
+Stand - Cherry Popper 2,Misc,-1685.980,-1104.140,13.152
+Stand - Gifts,Misc,-1636.920,-1092.090,13.577
+Stand - Gifts 2,Misc,-1678.200,-1110.540,13.152
+Stand - MogShots 2,Misc,-1682.160,-1107.260,13.152
+Stand - MogShots Stand,Misc,-1641.550,-1097.630,13.450
+Tattoo Parlor,Misc,319.788,172.231,104.744
+The Oriental TS (L),Misc,282.216,199.802,104.374
+The Oriental TS (R),Misc,314.134,188.354,103.928
+Tongva Hills,Misc,-1883.740,2062.859,151.000
+Trevor - Floyd's Apartment,Misc,-1159.034,-1521.180,10.633
+Trevor - Trailer,Misc,1985.700,3812.200,32.200
+Trevor - Trailer (Inside),Misc,1976.000,3821.000,34.000
+Trevor - Vanilla Unicorn,Misc,97.271,-1290.994,30.269
+Under the bridge,Misc,721.660,-1000.650,23.546
+Underground - Tunnel Construction,Misc,16.969,-646.180,16.088
+Underground - Tunnel Entrance (Drain),Misc,1033.729,-270.564,50.855
+Underground - Tunnel Loop,Misc,-4.579,-742.428,16.503
+Underwater Hatch from Lost Series,Misc,4287.000,2967.000,-176.000
+Underwater Hatch with Light,Misc,-1254.831,6795.000,-175.000
+Underwater Hotspot (For Underwater Car),Misc,-2183.034,-1051.004,-142.771
+Vanilla Unicorn DJ Booth,Misc,123.000,-1281.000,30.000
+Vanilla Unicorn DJ Booth (close to bar),Misc,126.121,-1278.513,29.270
+Vanilla Unicorn Empty Room (Bug),Misc,134.121,-1289.580,29.270
+Vanilla Unicorn Entrance,Misc,127.400,-1307.700,29.200
+Vanilla Unicorn Manager Room,Misc,97.271,-1290.994,30.269
+Vanilla Unicorn Reception,Misc,124.000,-1298.000,30.000
+Vespucci Beach,Misc,-1600.090,-1041.890,13.021
+Vespucci Beach - Dr. Friedlander,Misc,-1907.350,-577.235,20.122
+Vespucci Beach - Under ocean Glitch with Car,Misc,-2433.390,-1332.600,-207.486
+Vespucci Beach Coral Reef,Misc,-1942.354,-1128.529,-34.993
+Vesupucci House Glitch,Misc,-976.015,-1003.840,2.150
+Vinewood Bowl,Misc,684.593,573.285,131.000
+Vinewood Logo Top (Auto Parachute Recieve),Misc,776.878,1175.608,345.956
+Windfarm,Misc,2354.000,1830.300,101.100
+Zancudo River,Misc,-558.981,2945.701,14.592
+Zancudo River - Dirtbike trail,Misc,-1202.090,2802.440,14.826

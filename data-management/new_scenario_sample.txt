@@ -1,0 +1,30 @@
+```
+camera_moving? save_depth? save_stencil? random_ped?
+weather 
+daytime
+location_type
+center_coord_world .x.y.z(that camera focus on)
+camera_rtation_world .x.y.z
+camera_displacement .x.y.z
+
+ped_number
+
+ped_1_init_position .x.y.z heading hash type (if random_ped==False)
+ped_1_action(name dict time)
+
+ped_2_init_position .x.y.z heading hash type (if random_ped==False)
+ped_2_action(name dict time)
+
+...
+```
+
+0 1 1 1
+THUNDER
+2 57 56
+suburb
+1020.518 663.27 153.516
+18.33249248005198 0.0 -15.144280901981833
+-2.088377726977235 -7.716156554461679 -2.6487174261642346
+1
+anim@veh@valkyrie@rds@enter_exit_front shuffle_seat 2766.6
+-0.27731989753051556 1.3180804998601543 0.14617821184664898 -180
