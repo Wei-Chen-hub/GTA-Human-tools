@@ -54,6 +54,7 @@ Then copy save file from unzipped GTAV :
 ```
 
 ## Step 7:
+Game Setting: 1920x1080 (in other resolution depth map might not be captured), fullscreen (fullscreen image will be captured)
 Run **GTAV.exe**, in game select **Story Mode**, after loading press **F8**.
 
 The **DatasetAnnotator.asi** plugin will read scenario files and write results as below:
@@ -61,6 +62,7 @@ The **DatasetAnnotator.asi** plugin will read scenario files and write results a
 \GTAV\MTA-Scenarios
 \GTAV\MTA
 ```
+I have provided 50k+ single person scenarios in the zip file, enjoy!
 
 
 ## Notes:
