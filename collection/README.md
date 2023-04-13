@@ -64,4 +64,4 @@ The **DatasetAnnotator.asi** plugin will read scenario files and write results a
 
 
 ## Notes:
-1. Flie **\GTAV\playGTAV.exe** is a hacking file for GTAV, sometimes it will be quaratined by Windows Defenser, please restore it.
+1. Flie **...\GTAV\playGTAV.exe** is a hacking file for GTAV, sometimes it will be quaratined by Windows Defender, please restore it.
