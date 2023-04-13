@@ -1,7 +1,9 @@
 ![Teaser](/collection/instructions/teaser.jpg)
-# GTAHuman-tools
+# Tools for collecting GTA-Human and GTA-Human++
 
-To install, first clone this repo.
+[Official Page](https://caizhongang.github.io/projects/GTA-Human/)
+
+To install the tools, first clone this repo.
 
 For data extraction and collection purposes, please refer to [data collection folder](collection)
 
