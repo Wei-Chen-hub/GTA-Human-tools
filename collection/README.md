@@ -39,3 +39,29 @@ xcopy /Y $(SolutionDir)$(Platform)\$(Configuration)\$(ProjectName).asi "...\gtav
 Build ! ! ! (With **Debug x64**, as other settings might fail in some cases)
 
 In successful build, you should see a **DatasetAnnotator.asi** in your GTA folder
+
+## Step 6 (For GTAV):
+Assumed you have extracted GTAV zip (About 90G)
+
+(If you don't have a previous game save)
+Then copy save file from unzipped GTAV : 
+```
+...\GTAV\Goldberg SocialClub Emu Saves\GTA V\0F74F4C4\SGTA50000
+...\GTAV\Goldberg SocialClub Emu Saves\GTA V\0F74F4C4\cfg.dat
+# To
+...\AppData\Roaming\Goldberg SocialClub Emu Saves\GTA V\0F74F4C4 
+# Change ... to your user folder e.g. C:\Users\it_admin
+```
+
+## Step 7:
+Run **GTAV.exe**, in game select **Story Mode**, after loading press **F8**.
+
+The **DatasetAnnotator.asi** plugin will read scenario files and write results as below:
+```
+\GTAV\MTA-Scenarios
+\GTAV\MTA
+```
+
+
+## Notes:
+1. Flie **\GTAV\playGTAV.exe** is a hacking file for GTAV, sometimes it will be quaratined by Windows Defenser, please restore it.
