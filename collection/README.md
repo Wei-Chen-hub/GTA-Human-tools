@@ -1,3 +1,9 @@
+# At the Beginning
+
+By downloading this tool or using GTA-Human Dataset, you agree on the following statement: "I declare that I will use the this tool for research and educational purposes only, since I am aware that commercial use is prohibited. I also undertake to purchase a copy of Grand Theft Auto V."
+
+For setting the GAME Hook, please see [this tool](https://github.com/fabbrimatteo/JTA-Mods).
+
 # GTAHuman Data Collector
 
 Written in C++ and Visual Studio 2019, retargeted to Visual Studio 2022.
