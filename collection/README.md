@@ -4,6 +4,8 @@ By downloading this tool or using GTA-Human Dataset, you agree on the following 
 
 For setting the GAME Hook, please see [this tool](https://github.com/fabbrimatteo/JTA-Mods).
 
+For downloading of GTA-Human Scenario files (should generate the same scenario), please use [this link](https://drive.google.com/file/d/1N8Vej8blgHDepoFbhoOxneJ636PtHMfZ/view)
+
 # GTAHuman Data Collector
 
 Written in C++ and Visual Studio 2019, retargeted to Visual Studio 2022.
